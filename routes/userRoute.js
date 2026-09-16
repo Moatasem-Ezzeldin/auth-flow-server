@@ -5,7 +5,7 @@ const User = require("../models/userModel");
 const userValidator = require("../validators/userValidator");
 
 // Controllers (CRUD)
-const userController = require("../Controllers/userController");
+const userController = require("../controllers/userController");
 
 // upload sestem
 const upload = require("../utils/upload/multer");
