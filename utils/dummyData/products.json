@@ -1,0 +1,30 @@
+[
+    {
+        "title": "koooo",
+        "slug": "koooo",
+        "description": "kkkkkkkkkkkkk gggg kjhhhh hhhhhhhh  fddd ftft fffffffffffff ggdddssss",
+        "quantity": 20,
+        "sold": 6,
+        "price": 200,
+        "priceAfterDiscount": 199,
+        "ratingsAverage": 4.3,
+        "colors": ["red", "blue", "nunu"],
+        "category": "69cba31943811b74c29bca8b",
+        "subcategories": ["69ceacb413d50a7a61141d11"],
+        "imageCover": "https://momo.png"
+    },
+    {
+    "title": "koooo",
+    "slug": "koooo",
+    "description": "kkkkkkkkkkkkk gggg kjhhhh hhhhhhhh  fddd ftft fffffffffffff ggdddssss",
+    "quantity": 20,
+    "sold": 6,
+    "price": 28,
+    "priceAfterDiscount": 25,
+    "ratingsAverage": 4.3,
+    "colors": ["red", "blue", "nunu"],
+    "category": "69cba31943811b74c29bca8b",
+    "subcategories": ["69ceacb413d50a7a61141d11"],
+    "imageCover": "https://momo.png"
+}
+]
